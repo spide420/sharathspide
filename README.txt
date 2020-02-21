@@ -1,0 +1,1 @@
+Hello Every one i am sharath spide, intern in Quantumverse PVT, LTD., i am a software developer (Intermediate) who is abitious to learn a lot in this current computer science field. I am a mobile application designer(using adobe xd), worked in website development and currently working on a project of mobile application development using React Native. 
